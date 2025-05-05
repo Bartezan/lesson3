@@ -16,7 +16,7 @@ public class Main {
         //task 2
         float sample1 =27.12f;
         long sample2 =987_678_965_549L;
-        float sample3 =2.786f;
+        double sample3 =2.786d;
         short sample4 =569;
         short sample5 =-159;
         short sample6 =27897;
